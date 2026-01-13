@@ -28,3 +28,4 @@ dist-ssr
 
 # Cloudflare Workers local environment variables
 .dev.vars
+config.bat
